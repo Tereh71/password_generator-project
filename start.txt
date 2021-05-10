@@ -1,0 +1,11 @@
+cd password_generator-project
+ls
+python manage.py runserver
+http://127.0.0.1:8000
+
+
+git add -A
+git commit -m ""
+git status
+git stash - відміна останніх змін
+git log перелік коммітів 
